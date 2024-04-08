@@ -7,7 +7,7 @@ Flutter Developer
 More code
 
 * 🌍  I'm based in İstanbul
-* ✉️  You can contact me at [muabka1678@gmail.com](mailto:muratgucsuzz@gmail.com)
+* ✉️  You can contact me at [muratgucsuzz@gmail.com](mailto:muratgucsuzz@gmail.com)
 * 🧠  I'm learning Flutter, Firebase
 * 🤝  I'm open to collaborating on Flutter project
 
